@@ -23,7 +23,6 @@ prediksi kematangan dan nilai gizi pisang dengan metode CNN berbasis Aplikasi mo
   - Memperdalam pemahaman tentang implementasi kecerdasan buatan dan machine learning dalam dunia nyata.
   - Menambah inovasi baru dan membangun portofolio yang dapat digunakan dalam dunia kerja.
   - Mengaplikasikan ilmu yang telah dipelajari selama masa perkuliahan.
-  - Membangun proyek AI yang nyata.
-      
+  - Membangun proyek AI yang dapat diimplementasikan ke dalam dunia nyata.
 
 
