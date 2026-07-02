@@ -18,12 +18,12 @@ prediksi kematangan dan nilai gizi pisang dengan metode CNN berbasis Aplikasi mo
 
   Saya mengikuti bootcamp ini dengan beberapa goals, yaitu sebagai berikut;
   - Menambah wawasan dan pengetahuan dalam bidang Artificial Intellegence terkhusus dalam pengembangan sistem berbasis web maupun aplikasi khususnya dengan arahan dari Mentor yang berfokus pada bidang tersebut. 
-  - - Menambah networking dan pengalaman bekerja dalam tim yang memiliki minat yang sama. 
-    - Meningkatkan kemampuan dalam pemrograman dan problem solving
-    - Memperdalam pemahaman tentang implementasi kecerdasan buatan dan machine learning dalam dunia nyata.
-    - Menambah inovasi baru dan membangun portofolio yang dapat digunakan dalam dunia kerja.
-    - Mengaplikasikan ilmu yang telah dipelajari selama masa perkuliahan.
-    - Membangun proyek AI yang nyata.
+  - Menambah networking dan pengalaman bekerja dalam tim yang memiliki minat yang sama. 
+  - Meningkatkan kemampuan dalam pemrograman dan problem solving
+  - Memperdalam pemahaman tentang implementasi kecerdasan buatan dan machine learning dalam dunia nyata.
+  - Menambah inovasi baru dan membangun portofolio yang dapat digunakan dalam dunia kerja.
+  - Mengaplikasikan ilmu yang telah dipelajari selama masa perkuliahan.
+  - Membangun proyek AI yang nyata.
       
 
 
